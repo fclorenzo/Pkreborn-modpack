@@ -1,6 +1,6 @@
 # Pkreborn-modpack
 
-My modpack for Pokémon Reborn
+My modpack for Pokémon Reborn, compatible with game version 19.6
 
 ## Contents
 
